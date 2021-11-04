@@ -1,0 +1,14 @@
+{
+    "feeds":[
+        {
+            "id": 1,
+            "content": "",
+            "liked": 23,
+            "comments": 12,
+            "image": "url",
+            "hashtags": ["yams", "cake"],
+            "video": "url"
+        }
+        
+    ]
+}

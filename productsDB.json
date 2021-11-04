@@ -1,0 +1,25 @@
+{
+    "product":[
+        {
+            "id": 1,
+            "name": "Birthday cake ",
+            "description": "Matcha flavour mixed with fresh milk",
+            "tags": ["new", "promo","popular"],
+            "price": 56500,
+            "currentPrice": 49000,
+            "rating": 4.5,
+            "checked": 350,
+            "image": "url",
+            "isAvailable": true,
+            "isFavorite": false,
+            "isPromo": true,
+            "available": 280,
+            "buyed": "1k",
+            "size": ["s", "m", "l"],
+            "toping": ["trân châu", "thạch"],
+            "category": "donut",
+            "diet": "under weight, healthy, overweight, obesity"
+        }
+        
+    ]
+}

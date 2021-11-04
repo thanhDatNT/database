@@ -1,0 +1,13 @@
+{
+    "reviews":[
+        {
+            "id": 1,
+            "rating": 5,
+            "profile": "url",
+            "name": "Quỳnh",
+            "content": "Bánh rất ngon",
+            "category": "Nhân dâu tây",
+            "size": "m"
+        }
+    ]
+}
