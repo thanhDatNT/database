@@ -1,0 +1,44 @@
+{
+    "category":[
+        {
+            "id":1,
+            "name": "Cupcake",
+            "thumb": "https://i.ibb.co/b56M4rj/cupcake.png"
+        },
+        {
+            "id":2,
+            "name": "Donut",
+            "thumb": "https://i.ibb.co/pLxdKNG/donut.png"
+        },
+        {
+            "id":3,
+            "name": "Macaron",
+            "thumb": "https://i.ibb.co/G3Xt1Sf/macaron.png"
+        },
+        {
+            "id":4,
+            "name": "Pudding",
+            "thumb": "https://i.ibb.co/S6knG36/pudding.png"
+        },
+        {
+            "id":5,
+            "name": "Tiramisu",
+            "thumb": "https://i.ibb.co/PDQ4Fsg/tiramisu.png"
+        },
+        {
+            "id":6,
+            "name": "Cheese cake",
+            "thumb": "https://i.ibb.co/hyZnXn9/cheesecake.png"
+        }
+        ,{
+            "id":7,
+            "name": "Birthday cake",
+            "thumb": "https://i.ibb.co/MVBNLk4/birthday-cake.png"
+        },
+        {
+            "id":8,
+            "name": "Cookie",
+            "thumb": "https://i.ibb.co/X5YpXLk/cookie.png"
+        }
+    ]
+}
