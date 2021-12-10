@@ -373,8 +373,8 @@
             "available": 100,
             "buyed": "1k2",
             "toping": [""],
-            "category": "6"
-
+            "category": "6",
+            "diet": "4"
         },
         {
             "id": 20,
@@ -392,7 +392,8 @@
             "available": 100,
             "buyed": "159",
             "toping": [""],
-            "category": "6"
+            "category": "6",
+            "diet": "4"
         },
         {
             "id": 21,
@@ -410,7 +411,8 @@
             "available": 110,
             "buyed": "1k3",
             "toping": [""],
-            "category": "6"
+            "category": "6",
+            "diet": "4"
         },
         {
             "id": 22,
@@ -600,8 +602,8 @@
             "available": 280,
             "buyed": "1k",
             "toping": [""],
-            "category": "5"
-    
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 32,
@@ -619,7 +621,8 @@
             "available": 280,
             "buyed": "990",
             "toping": [""],
-            "category": "5"
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 33,
@@ -637,7 +640,8 @@
             "available": 140,
             "buyed": "1k",
             "toping": [""],
-            "category": "5"
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 34,
@@ -655,8 +659,8 @@
             "available": 280,
             "buyed": "1k8",
             "toping": [""],
-            "category": "5"
-
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 35,
@@ -674,7 +678,8 @@
             "available": 280,
             "buyed": "1k",
             "toping": [""],
-            "category": "5"
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 36,
@@ -692,7 +697,8 @@
             "available": 120,
             "buyed": "1k1",
             "toping": [""],
-            "category": "5"
+            "category": "5",
+            "diet": "4"
         },
         {
             "id": 37,
@@ -710,7 +716,8 @@
             "available": 120,
             "buyed": "500",
             "category": "1",
-            "toping":  ["Kem phủ", "Trái cây","Thạch"]
+            "toping":  ["Kem phủ", "Trái cây","Thạch"],
+            "diet": "4"
         },
         {
             "id": 38,
@@ -727,7 +734,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Kem phủ", "Trái cây","Thạch"]
         },
@@ -746,7 +753,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -765,7 +772,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -784,7 +791,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Kem phủ", "Trái cây", "Hạt chocolate"]
         },
@@ -803,7 +810,7 @@
             "isPromo": false,
             "available": 140,
             "buyed": "500",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -822,7 +829,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -841,7 +848,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -860,7 +867,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -879,7 +886,7 @@
             "isPromo": false,
             "available": 125,
             "buyed": "1k2",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -898,7 +905,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -917,7 +924,7 @@
             "isPromo": true,
             "available": 124,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -936,7 +943,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "600",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -955,7 +962,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            
+            "diet": "4",
             "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
@@ -975,7 +982,8 @@
             "available": 100,
             "buyed": "10",
             "toping": ["Coffee"],
-            "category": "4"
+            "category": "4",
+            "diet": "4"
         },
 
         {
