@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Pudding milo",
             "description": "Bánh được làm từ bột milo nguyên chất, xốp mềm thơm ngon",
-            "tags": "new",
+            "tag": "New",
             "price": 30000,
             "currentPrice": 30000,
             "rating": 5,
@@ -15,16 +15,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Hạt chia", "Hạt chocolate"],
-            "category": "pudding",
-            "diet": "thừa cân"
+            "category": "7",
+            "diet": "4"
         },
         {
             "id": 2,
             "name": "Red pomegranate pudding",
             "description": "Bánh được chiết xuất từ lựu tạo nên vị ngọt thanh mới lạ",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 30000,
             "currentPrice": 25000,
             "rating": 5,
@@ -32,19 +32,19 @@
             "image": "https://i.ibb.co/99q0SjH/Panna-cotta-pudding.jpg",
             "isAvailable": true,
             "isFavorite": false,
-            "isPromo": false,
-            "available": 100,
-            "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            "isPromo": true,
+            "available": 50,
+            "buyed": "890",
+            
             "toping": ["Trân châu", "Hạt chia", "Kem tươi"],
-            "category": "pudding",
-            "diet": "thừa cân"
+            "category": "7",
+            "diet": "4"
         },
         {
             "id": 3,
             "name": "Pudding mango",
             "description": "Xoài và hạt chia lần dầu kết hợp với nhau chắc chắn sẽ đem đến cho bạn kích thích đến lạ",
-            "tags": "new",
+            "tag": "New",
             "price": 40000,
             "currentPrice": 40000,
             "rating": 5,
@@ -55,16 +55,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu", "Hạt chia", "Kem tươi"],
-            "category": "pudding",
-            "diet": "cân đối"
+            "category": "7",
+            "diet": "3"
         },
         {
             "id": 4,
             "name": "pudding ice cream",
             "description": "Bánh phủ kem tươi và hạt ngũ cốc",
-            "tags": "new",
+            "tag": "New",
             "price": 30000,
             "currentPrice": 30000,
             "rating": 4.5,
@@ -75,16 +75,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu", "Hạt chia", "Kem tươi"],
-            "category": "pudding",
-            "diet": "cân đối"
+            "category": "7",
+            "diet": "3"
         },
         {
             "id": 5,
             "name": "Pudding chocolate",
             "description": "Bánh được làm từ bột chocolate nguyên chất, xốp mềm kết hợp với kem phủ thơm ngon",
-            "tags": "new",
+            "tag": "New",
             "price": 30000,
             "currentPrice": 25000,
             "rating": 5,
@@ -92,21 +92,21 @@
             "image": "https://i.ibb.co/DwhKFf4/Pudding-cream.png",
             "isAvailable": true,
             "isFavorite": false,
-            "isPromo": false,
+            "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping":  ["Trân châu", "Hạt chocolate", "Kem tươi"],
-            "category": "pudding",
-            "diet": "béo phì"
+            "category": "7",
+            "diet": "2"
         },
         {
             "id": 6,
             "name": "Pudding Cherry",
             "description": "Lớp bánh mềm mại cùng cherry mang hương vị tươi mới",
-            "tags": "popular",
-            "price": 30000,
-            "currentPrice": 30000,
+            "tag": "Popular",
+            "price": 50000,
+            "currentPrice": 50000,
             "rating": 5,
             "checked": 350,
             "image": "https://i.ibb.co/DwhKFf4/Pudding-cream.png",
@@ -115,16 +115,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu", "Cherry tươi", "Kem tươi"],
-            "category": "pudding",
-            "diet": "cân đối"
+            "category": "7",
+            "diet": "3"
         },
         {
             "id": 7,
             "name": "Pudding socola",
             "description": "Lớp bánh thơm mềm được, hương vị đăng đắng ngọt thanh",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 40000,
             "currentPrice": 35000,
             "rating": 5,
@@ -135,16 +135,16 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Kem tươi", "Hạt chia"],
-            "category":  "pudding",
-            "diet": "gầy"
+            "category":  "7",
+            "diet": "1"
         },
         {
             "id": 8,
             "name": "Pudding chocolate cream",
             "description": "Bánh được làm từ bột socola nguyên chất, xốp mềm thơm ngon, kết hợp với hạt chia thanh mát",
-            "tags": "new",
+            "tag": "New",
             "price": 40000,
             "currentPrice": 40000,
             "rating": 5,
@@ -155,16 +155,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Kem tươi", "Hạt chia"],
-            "category": "pudding",
-            "diet": "béo phì"
+            "category": "7",
+            "diet": "2"
         },
         {
             "id": 9,
             "name": "Mango pudding",
             "description": "Xoài vừa chín tới chua chua ngọt ngọt kết hợp với lớp bánh thơm béo",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 30000,
             "currentPrice": 30000,
             "rating": 5,
@@ -175,16 +175,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Xoài","Cherry tươi"],
-            "category": "pudding",
-            "diet": "béo phì"
+            "category": "7",
+            "diet": "2"
         },
         {
             "id": 10,
             "name": "Blueberry pudding",
             "description": "Bánh được làm từ bột, trứng, sữa và đường nên có có vị béo ngậy, thơm ngon và vô cùng bổ dưỡng",
-            "tags": "new",
+            "tag": "New",
             "price": 30000,
             "currentPrice": 30000,
             "rating": 5,
@@ -193,18 +193,18 @@
             "isAvailable": true,
             "isFavorite": false,
             "isPromo": false,
-            "available": 100,
+            "available": 90,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping":  ["Kem phủ", "Trái cây","Thạch"],
-            "category": "pudding",
-            "diet": "thừa cân"
+            "category": "7",
+            "diet": "4"
         },
         {
             "id": 11,
             "name": "Black sugar pearl pudding",
             "description": "Lớp bánh mềm mịn cùng trân châu ngọt dai",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 35000,
             "currentPrice": 35000,
             "rating": 5,
@@ -213,18 +213,18 @@
             "isAvailable": true,
             "isFavorite": true,
             "isPromo": false,
-            "available": 100,
+            "available": 88,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping":  ["Kem phủ", "Trái cây","Thạch"],
-            "category": "pudding",
-            "diet": "gầy"
+            "category": "7",
+            "diet": "1"
         },
         {
             "id": 12,
             "name": "Berry panacotta pudding",
             "description": "Lớp mức dâu thơm ngon sánh mịn ",
-            "tags": "new",
+            "tag": "New",
             "price": 30000,
             "currentPrice": 30000,
             "rating": 4.5,
@@ -235,18 +235,18 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Mức dâu","Thạch","Trái cây"],
-            "category": "pudding",
-            "diet": "cân đối"
+            "category": "7",
+            "diet": "3"
         },
         {
             "id": 13,
             "name": "Berry caramel pudding",
             "description": "Bánh mềm mịn kết hợp với trái cây tươi",
-            "tags": "new",
-            "price": 30000,
-            "currentPrice": 30000,
+            "tag": "New",
+            "price": 52000,
+            "currentPrice": 52000,
             "rating": 5,
             "checked": 350,
             "image": "https://i.ibb.co/bNBZ10j/Berry-caramel-pudding.jpg",
@@ -255,16 +255,16 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Trái cây","Kem tươi"],
-            "category": "pudding",
-            "diet": "gầy"
+            "category": "7",
+            "diet": "1"
         },
         {
             "id": 14,
             "name": "Chia pudding",
             "description": "Bánh mang phong cách tối giản nhưng nhẹ nhàng độc đáo",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 30000,
             "currentPrice": 25000,
             "rating": 5,
@@ -275,17 +275,17 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
+            
             "toping": ["Trân châu","Trái cây", "Thạch"],
-            "category": "pudding",
-            "diet": "cân đối"
+            "category": "7",
+            "diet": "3"
         },
     
         {
             "id": 15,
             "name": "Sweet maracon",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 5,
@@ -296,15 +296,15 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "cân đối"
+            "toping": [""],
+            "category": "6",
+            "diet": "3"
         },
         {
             "id": 16,
             "name": "Strawberry maracon",
             "description": "Vỏ bánh giòn tan cùng lớp kem dâu tây béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 4.5,
@@ -313,17 +313,17 @@
             "isAvailable": true,
             "isFavorite": true,
             "isPromo": false,
-            "available": 100,
-            "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "cân đối"
+            "available": 40,
+            "buyed": "672",
+            "toping": [""],
+            "category": "6",
+            "diet": "3"
         },
         {
             "id": 17,
             "name": "Strawberry jams macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem ngọt bùi",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 5,
@@ -332,17 +332,17 @@
             "isAvailable": true,
             "isFavorite": false,
             "isPromo": false,
-            "available": 100,
+            "available": 45,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "cân đối"
+            "toping": [""],
+            "category": "6",
+            "diet": "3"
         },
         {
             "id": 18,
             "name": "Rasp berry macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 5,
@@ -353,17 +353,17 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k5",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "béo phì"
+            "toping": [""],
+            "category": "6",
+            "diet": "2"
         },
         {
             "id": 19,
             "name": "Pear and chocolate macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
-            "price": 25000,
-            "currentPrice": 25000,
+            "tag": "New",
+            "price": 43000,
+            "currentPrice": 43000,
             "rating": 5,
             "checked": 120,
             "image": "https://i.ibb.co/GHQV8cm/Pear-and-chocolate-macaron.jpg",
@@ -372,15 +372,15 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon"
+            "toping": [""],
+            "category": "6"
 
         },
         {
             "id": 20,
             "name": "Peach macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem dâu thơm lừng",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 25000,
             "currentPrice": 20000,
             "rating": 5,
@@ -390,16 +390,15 @@
             "isFavorite": true,
             "isPromo": true,
             "available": 100,
-            "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon"
-     
+            "buyed": "159",
+            "toping": [""],
+            "category": "6"
         },
         {
             "id": 21,
             "name": "Milo macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy phủ lên bột milo",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 5,
@@ -408,17 +407,16 @@
             "isAvailable": true,
             "isFavorite": false,
             "isPromo": false,
-            "available": 100,
-            "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon"
-
+            "available": 110,
+            "buyed": "1k3",
+            "toping": [""],
+            "category": "6"
         },
         {
             "id": 22,
             "name": "Green tea macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 25000,
             "currentPrice": 25000,
             "rating": 5,
@@ -427,17 +425,17 @@
             "isAvailable": true,
             "isFavorite": false,
             "isPromo": false,
-            "available": 120,
+            "available": 125,
             "buyed": "900",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "Béo phì"
+            "toping": [""],
+            "category": "6",
+            "diet": "2"
         },
         {
             "id": 23,
             "name": "Matcha maracon",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 25000,
             "currentPrice": 20000,
             "rating": 5,
@@ -448,15 +446,15 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "Béo phì"
+            "toping": [""],
+            "category": "6",
+            "diet": "2"
         },
         {
             "id":24,
             "name": "Fruit maracon",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 20000,
             "rating": 4.5,
@@ -467,15 +465,15 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "Béo phì"
+            "toping": [""],
+            "category": "6",
+            "diet": "2"
         },
         {
             "id": 25,
             "name": "Coffee macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 20000,
             "rating": 5,
@@ -486,15 +484,15 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "Thừa cân"
+            "toping": [""],
+            "category": "6",
+            "diet": "4"
         },
         {
             "id": 26,
             "name": "Christmas macaron",
             "description": "Vỏ bánh giòn tan cùng lớp kem béo ngậy",
-            "tags": "new",
+            "tag": "New",
             "price": 25000,
             "currentPrice": 22000,
             "rating": 4.5,
@@ -502,18 +500,18 @@
             "image": "https://i.ibb.co/n7ytwdz/Christmas-macaron.jpg",
             "isAvailable": true,
             "isFavorite": false,
-            "isPromo": false,
+            "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "cân đối"
+            "toping": [""],
+            "category": "6",
+            "diet": "3"
         },
         {
             "id": 27,
             "name": "Chocolate macaron",
             "description": "Vỏ bánh giòn tan",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 25000,
             "currentPrice": 23000,
             "rating": 5,
@@ -524,17 +522,17 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "maracon",
-            "diet": "Béo phì"
+            "toping": [""],
+            "category": "6",
+            "diet": "2"
         },
 
         {
             "id": 28,
             "name": "Springtime pastel donut",
             "description": "Lớp bánh giòn tan kèm kem phủ ",
-            "tags": "new",
-            "price": 15000,
+            "tag": "New",
+            "price": 18000,
             "currentPrice": 15000,
             "rating": 4.5,
             "checked": 350,
@@ -543,16 +541,16 @@
             "isFavorite": false,
             "isPromo": true,
             "available": 280,
-            "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut",
-            "diet": "gầy"
+            "buyed": "2k",
+            "toping": [""],
+            "category": "5",
+            "diet": "1"
         },
         {
             "id":29,
             "name": "Orange tripe donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "new",
+            "tag": "New",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.5,
@@ -563,17 +561,17 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut",
-            "diet": "gầy"
+            "toping": [""],
+            "category": "5",
+            "diet": "1"
         },
         {
             "id": 30,
             "name": "Light blue donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ bạc hà",
-            "tags": "popular",
-            "price": 15000,
-            "currentPrice": 15000,
+            "tag": "Popular",
+            "price": 26000,
+            "currentPrice": 26000,
             "rating": 4.5,
             "checked": 120,
             "image": "https://i.ibb.co/SnY0VxB/blue-donut.jpg",
@@ -581,19 +579,18 @@
             "isFavorite": false,
             "isPromo": false,
             "available": 280,
-            "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut",
-            "diet": "Cân đối"
-
+            "buyed": "1k5",
+            "toping": [""],
+            "category": "5",
+            "diet": "3"
         },
         {
             "id": 31,
             "name": "Donut with beans",
             "description": "Lớp bánh thơm giòn kèm lớp phủ socola",
-            "tags": "new",
-            "price": 15000,
-            "currentPrice": 15000,
+            "tag": "New",
+            "price": 19000,
+            "currentPrice": 19000,
             "rating": 4.5,
             "checked": 120,
             "image": "https://i.ibb.co/6gzFqM0/photo-1618427012166-b0e03d490a4a.jpg",
@@ -602,17 +599,17 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "toping": [""],
+            "category": "5"
     
         },
         {
             "id": 32,
             "name": "Cream donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ béo mịn",
-            "tags": "new",
-            "price": 15000,
-            "currentPrice": 15000,
+            "tag": "New",
+            "price": 23000,
+            "currentPrice": 23000,
             "rating": 4.5,
             "checked": 120,
             "image": "https://i.ibb.co/VCY98h9/box-donut.jpg",
@@ -620,15 +617,15 @@
             "isFavorite": false,
             "isPromo": false,
             "available": 280,
-            "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "buyed": "990",
+            "toping": [""],
+            "category": "5"
         },
         {
             "id": 33,
             "name": "Chocolate donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ",
-            "tags": "new",
+            "tag": "New",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.5,
@@ -637,16 +634,16 @@
             "isAvailable": true,
             "isFavorite": false,
             "isPromo": false,
-            "available": 280,
+            "available": 140,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "toping": [""],
+            "category": "5"
         },
         {
             "id": 34,
             "name": "Blue donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương bạc hà thanh mát",
-            "tags": "promo",
+            "tag": "Promo",
             "price": 15000,
             "currentPrice": 12000,
             "rating": 4.5,
@@ -656,16 +653,16 @@
             "isFavorite": true,
             "isPromo": true,
             "available": 280,
-            "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "buyed": "1k8",
+            "toping": [""],
+            "category": "5"
 
         },
         {
             "id": 35,
             "name": "Orange tripe donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "new",
+            "tag": "New",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.5,
@@ -676,14 +673,14 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "toping": [""],
+            "category": "5"
         },
         {
             "id": 36,
             "name": "Chocolate donut",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 5,
@@ -694,14 +691,14 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "donut"
+            "toping": [""],
+            "category": "5"
         },
         {
             "id": 37,
             "name": "Tube birthday cake",
             "description": "Lớp bánh thơm mềm, kết hợp với bánh que tạo hương vị tuyệt hảo",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 250000,
             "currentPrice": 250000,
             "rating": 5,
@@ -712,15 +709,14 @@
             "isPromo": false,
             "available": 120,
             "buyed": "500",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            "category": "1",
             "toping":  ["Kem phủ", "Trái cây","Thạch"]
         },
         {
             "id": 38,
             "name": "Lemon birthday cake",
             "description": "Lớp bánh béo mịn kèm kem phủ hương cam",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -731,15 +727,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Kem phủ", "Trái cây","Thạch"]
         },
         {
             "id": 39,
             "name": "Strawberry birthday cake",
             "description": "Lớp bánh mềm mịn kết hợp cùng dâu tươi",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -750,15 +746,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 40,
             "name": "Oreo birthday cake",
             "description": "Lớp bánh mềm mịn kết hợp cùng bánh oreo",
-            "tags": "new",
+            "tag": "New",
             "price": 250000,
             "currentPrice": 230000,
             "rating": 4.5,
@@ -769,15 +765,15 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 41,
             "name": "Litchi birthday cake",
             "description": "Lớp bánh mềm mịn kết hợp cùng bánh oreo",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 200000,
             "currentPrice": 200000,
             "rating": 5,
@@ -788,15 +784,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Kem phủ", "Trái cây", "Hạt chocolate"]
         },
         {
             "id": 42,
             "name": "Flower birthday cake",
             "description": "Lớp bánh mềm mịn với hoa hồng làm điểm nhấn tạo vẽ tao nhã thanh lịch",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 300000,
             "currentPrice": 300000,
             "rating": 5,
@@ -807,15 +803,15 @@
             "isPromo": false,
             "available": 140,
             "buyed": "500",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 43,
             "name": "Birthday violet",
             "description": "Lớp bánh mềm mịn với phong cách trang trí thanh lịch",
-            "tags": "new",
+            "tag": "New",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -826,15 +822,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 44,
             "name": "Birthday Strawberry",
             "description": "Lớp bánh thơm giòn kèm kem phủ kết hợp với dâu tươi",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -845,15 +841,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 45,
             "name": "Birthday pink",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -864,15 +860,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 46,
             "name": "Birthday organe",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 170000,
             "currentPrice": 170000,
             "rating": 5,
@@ -883,15 +879,15 @@
             "isPromo": false,
             "available": 125,
             "buyed": "1k2",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 47,
             "name": "Birthday chocolate",
             "description": "Lớp bánh mềm kết hợp chocolate và trái cây tươi",
-            "tags": "new",
+            "tag": "New",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -902,15 +898,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 48,
             "name": "Birthday fruit",
             "description": "Lớp bánh mềm kết hợp chocolate và trái cây tươi",
-            "tags": "popular",
+            "tag": "Promo",
             "price": 170000,
             "currentPrice": 150000,
             "rating": 4.5,
@@ -921,15 +917,15 @@
             "isPromo": true,
             "available": 124,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 49,
             "name": "Birthday rose",
             "description": "Lớp bánh mềm mại kết hợp hoa hồng thích hợp cho các buổi tiệc sang trọng",
-            "tags": "popular",
+            "tag": "Popular",
             "price": 250000,
             "currentPrice": 250000,
             "rating": 5,
@@ -940,15 +936,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "600",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 50,
-            "name": "Birthday with maracon",
+            "name": "Birthday with macaron",
             "description": "Lớp bánh thơm giòn kèm kem phủ hương cam",
-            "tags": "new",
+            "tag": "New",
             "price": 150000,
             "currentPrice": 150000,
             "rating": 5,
@@ -959,15 +955,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "size": ["S", "M", "L"],
-            "category": "birthdaycake",
+            
+            "category": "1",
             "toping":  ["Trái cây","Hạt chocolate","Kem phủ"]
         },
         {
             "id": 51,
             "name": "Coffe Cupcake ",
             "description": "Mang đầy đủ hương vị cà phê.",
-            "tags": "new",
+            "tag": "New",
             "price": 20000,
             "currentPrice": 20000,
             "rating": 4.8,
@@ -978,15 +974,15 @@
             "isPromo": false,
             "available": 100,
             "buyed": "10",
-            "size": ["S", "M", "L"],
-            "category": "cupcake"
+            "toping": ["Coffee"],
+            "category": "4"
         },
 
         {
             "id": 52,
             "name": "Mint Chocolate CupCake ",
             "description": "Sô cô la phủ kem bạc hà",
-            "tags": "new",
+            "tag": "New",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 5.0,
@@ -997,15 +993,15 @@
             "isPromo": false,
             "available": 120,
             "buyed": "20",
-            "size": ["S", "M", "L"],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            "toping": ["Bạc hà"],
+            "category": "4",
+            "diet": "3"
         },
         {
             "id": 53,
             "name": "Pumpkin CupCake",
             "description": " Hương vị bí ngô và phủ một lớp kem phô mai",
-            "tags": "new",
+            "tag": "New",
             "price": 20000,
             "currentPrice": 20000,
             "rating": 5.0,
@@ -1016,15 +1012,15 @@
             "isPromo": false,
             "available": 200,
             "buyed": "20",
-            "size": ["S", "M", "L"],
-            "category": "cupcake",
-            "diet": "Gầy"
+            "toping": ["Bí ngô"],
+            "category": "4",
+            "diet": "1"
         },
         {
             "id": 54,
             "name": "Oreo CupCake",
             "description": "Socola phủ kem sữa và bánh oreo ",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 20000,
             "currentPrice": 15000,
             "rating": 4.8,
@@ -1035,15 +1031,15 @@
             "isPromo": true,
             "available": 200,
             "buyed": "100",
-            "size":["S", "M", "L"],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            "category": "4",
+            "diet": "3",
+            "toping": ["Sữa tươi"]
         },
         {
             "id": 55,
             "name": "Rainbow CupCake",
             "description": "phủ lớp kem trái cây ",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 20000,
             "currentPrice": 15000,
             "rating": 4.8,
@@ -1054,16 +1050,16 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "cupcake",
-            "diet": "Gầy"
+            
+            "toping": ["Kem"],
+            "category": "4",
+            "diet": "1"
         },
         {
             "id": 56,
             "name": "Blue Rose CupCake",
             "description": "phủ lớp kem trái cây ",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 25000,
             "currentPrice": 15000,
             "rating": 4.8,
@@ -1074,16 +1070,16 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            "category": "4",
+            "diet": "3"
         },
         {
             "id": 57,
             "name": "Strawbery CupCake",
             "description": "Phủ lớp kem dâu sữa mềm mại ",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 25000,
             "currentPrice": 20000,
             "rating": 4.9,
@@ -1094,16 +1090,16 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            
+            "toping": ["Dâu tây"],
+            "category": "4",
+            "diet": "3"
         },
         {
             "id": 58,
             "name": "Mango CupCake",
             "description": "Lớp bánh mang vị xoài phủ kem trái cây",
-            "tags": "Top",
+            "tag": "Top",
             "price": 20000,
             "currentPrice": 20000,
             "rating": 4.8,
@@ -1111,20 +1107,20 @@
             "image": "https://i.ibb.co/S6jFbjN/Mango-Cup-Cake.jpg",
             "isAvailable": true,
             "isFavorite": false,
-            "isPromo": true,
+            "isPromo": false,
             "available": 200,
             "buyed": "100",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "cupcake",
-            "diet": "Thừa cân"
+            
+            "toping": ["Xoài"],
+            "category": "4",
+            "diet": "4"
         },
 
         {
             "id": 59,
             "name": "Lemon CupCake",
             "description": "Lớp bánh mang vị chanh dây phủ kem trái cây",
-            "tags": "Top",
+            "tag": "Top",
             "price": 20000,
             "currentPrice": 20000,
             "rating": 5.0,
@@ -1135,17 +1131,17 @@
             "isPromo": false,
             "available": 100,
             "buyed": "100",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            "category": "4",
+            "diet": "3"
         },
 
         {
             "id": 60,
             "name": "Vallina CupCake",
             "description": "Phủ lớp kem vani ",
-            "tags": "",
+            "tag": "Top",
             "price": 20000,
             "currentPrice": 20000,
             "rating": 5.0,
@@ -1156,16 +1152,16 @@
             "isPromo": false,
             "available": 160,
             "buyed": "100",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            "category": "4",
+            "diet": "3"
         },
         {
             "id": 61,
             "name": "Chocolate CupCake",
             "description": "Vỏ bánh làm bằng socola phủ một lớp kem socola",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 20000,
             "currentPrice": 15000,
             "rating": 5.0,
@@ -1173,22 +1169,22 @@
             "image": "https://i.ibb.co/qB2pQJX/chocolate-Cupcake.jpg",
             "isAvailable": true,
             "isFavorite": false,
-            "isPromo": false,
+            "isPromo": true,
             "available": 130,
             "buyed": "80",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "cupcake",
-            "diet": "Cân đối"
+            
+            "toping": ["Chocolate"],
+            "category": "4",
+            "diet": "3"
         },
         
         {
             "id": 62,
             "name": "Ice Cream Cookie",
             "description": "Phủ lớp kem trái cây mát lạnh",
-            "tags": "Promo",
-            "price": 10000,
-            "currentPrice": 5000,
+            "tag": "Promo",
+            "price": 16000,
+            "currentPrice": 14000,
             "rating": 4.7,
             "checked": 90,
             "image": "https://i.ibb.co/Rz4NgbH/Cookie-with-cream.jpg",
@@ -1197,16 +1193,16 @@
             "isPromo": true,
             "available": 100,
             "buyed": "90",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            
+            "toping": ["Kem"],
+            "category": "3",
+            "diet": "1"
         },
         {
             "id": 63,
             "name": "Halloween Cookie",
             "description": "Mang đủ loại hình theo chủ đề Halloween",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 15000,
             "currentPrice": 10000,
             "rating": 4.8,
@@ -1217,16 +1213,16 @@
             "isPromo": true,
             "available": 60,
             "buyed": "30",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            "category": "3",
+            "diet": "1"
         },
         {
             "id": 64,
             "name": "Matcha Cookie",
             "description": "Bánh làm từ bột matcha trà xanh",
-            "tags": "Top",
+            "tag": "Top",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.9,
@@ -1237,16 +1233,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            
+            "toping": ["Matcha"],
+            "category": "3",
+            "diet": "1"
         },
         {
             "id": 65,
             "name": "Milk Chocolate Cookie",
             "description": "Làm từ socola bên trong là sữa béo ngậy",
-            "tags": "Top",
+            "tag": "Top",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.8,
@@ -1257,16 +1253,16 @@
             "isPromo": false,
             "available": 140,
             "buyed": "100",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Cân đối"
+            
+            "toping": ["Sữa"],
+            "category": "3",
+            "diet": "3"
         },
         {
             "id": 66,
             "name": "Chocolate Chip Cookie",
             "description": "Mang hương vị thơm của những mảnh socola",
-            "tags": "Top",
+            "tag": "Top",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.9,
@@ -1277,17 +1273,17 @@
             "isPromo": true,
             "available": 80,
             "buyed": "50",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Cookies",
-            "diet": "Cân đối"
+            "category": "3",
+            "diet": "3"
         },
         {
             "id": 67,
             "name": "Christmas tree Cookie",
             "description": "hình dáng cây thông trang trí keo socola",
-            "tags": "New",
-            "price": 20000,
+            "tag": "New",
+            "price": 24000,
             "currentPrice": 20000,
             "rating": 4.8,
             "checked": 10,
@@ -1297,17 +1293,17 @@
             "isPromo": true,
             "available": 120,
             "buyed": "30",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Cookies",
-            "diet": "Cân đối"
+            "category": "3",
+            "diet": "3"
         },
         {
             "id": 68,
             "name": "Christmas Cookie",
             "description": "Những chiếc bánh đa dạng hình dáng chủ đề giáng sinh",
-            "tags": "New",
-            "price": 20000,
+            "tag": "Promo",
+            "price": 27000,
             "currentPrice": 20000,
             "rating": 4.8,
             "checked": 10,
@@ -1317,17 +1313,17 @@
             "isPromo": true,
             "available": 120,
             "buyed": "20",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Thừa cân"
+            
+            "toping": ["Mức trái cây"],
+            "category": "3",
+            "diet": "4"
         },
    
         {
             "id": 69,
             "name": "Oatmeal Cookie",
             "description": "Mang hương vị thơm của bột yến mạch",
-            "tags": "",
+            "tag": "Promo",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.9,
@@ -1338,17 +1334,17 @@
             "isPromo": false,
             "available": 70,
             "buyed": "60",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            
+            "toping": ["Yến mạch"],
+            "category": "3",
+            "diet": "1"
         },
 
         {
             "id": 70,
             "name": "Gingersnap Cookie",
             "description": "Mang hương vị của gừng",
-            "tags": "",
+            "tag": "Popular",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.7,
@@ -1359,10 +1355,10 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            
+            "toping": ["Gừng"],
+            "category": "3",
+            "diet": "1"
         },
        
       
@@ -1370,7 +1366,7 @@
             "id": 71,
             "name": "Cookie with Cream",
             "description": "Bánh quy kết hợp với kem sữa béo ngậy",
-            "tags": "",
+            "tag": "Top",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.9,
@@ -1381,16 +1377,16 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Cân đối"
+            
+            "toping": ["Kem"],
+            "category": "3",
+            "diet": "3"
         },
         {
             "id": 72,
             "name": "Vani Cookie",
             "description": "Bánh mang hương vị vani thơm giòn",
-            "tags": "",
+            "tag": "Top",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.9,
@@ -1401,17 +1397,17 @@
             "isPromo": false,
             "available": 80,
             "buyed": "60",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cookies",
-            "diet": "Gầy"
+            
+            "toping": ["Mức trái cây"],
+            "category": "3",
+            "diet": "1"
         },
 
         {
             "id": 73,
             "name": "Matcha Tiramisu",
             "description": "Hương vị béo ngậy thơm từ trà xanh ",
-            "tags": "Top",
+            "tag": "Top",
             "price": 110000,
             "currentPrice": 110000,
             "rating": 5.0,
@@ -1422,17 +1418,17 @@
             "isPromo": false,
             "available": 80,
             "buyed": "50",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            "category": "8",
+            "diet": "3"
         },
 
         {
             "id": 74,
             "name": "Mango Tiramisu",
             "description": "hỗn hợp mascarpone và sốt xoài với một số lát xoài tươi.",
-            "tags": "Top",
+            "tag": "Top",
             "price": 130000,
             "currentPrice": 130000,
             "rating": 4.9,
@@ -1443,17 +1439,17 @@
             "isPromo": false,
             "available": 40,
             "buyed": "90",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Thừa cân"
+            "category": "8",
+            "diet": "4"
         },
 
         {
             "id": 75,
             "name": "Strawbery Tiramisu",
             "description": "hỗn hợp mascarpone và sốt xoài với một số lát xoài tươi.",
-            "tags": "New",
+            "tag": "New",
             "price": 130000,
             "currentPrice": 130000,
             "rating": 4.8,
@@ -1464,16 +1460,16 @@
             "isPromo": false,
             "available": 40,
             "buyed": "20",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            "category": "8",
+            "diet": "3"
         },
         {
             "id": 76,
             "name": "Pineaple Tiramisu",
             "description": "Vị béo của sữa kết hợp với hương vị của dứa rất tuyệt",
-            "tags": "New",
+            "tag": "New",
             "price": 70000,
             "currentPrice": 70000,
             "rating": 4.7,
@@ -1484,16 +1480,16 @@
             "isPromo": false,
             "available": 30,
             "buyed": "10",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Thừa cân"
+            "category": "8",
+            "diet": "4"
         },
         {
             "id": 77,
             "name": "Lemon Tiramisu",
             "description": "Vị chua ngọt thơm lừng của chanh dây quyện với kem phô mai béo ngậy",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 120000,
             "currentPrice": 115000,
             "rating": 4.7,
@@ -1504,16 +1500,16 @@
             "isPromo": true,
             "available": 40,
             "buyed": "60",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Gầy"
+            "category": "8",
+            "diet": "1"
         },
         {
             "id": 78,
             "name": "Oreo Tiramisu",
             "description": "Bánh oreo kết hợp với kem phô mai béo ngậy",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 80000,
             "currentPrice": 75000,
             "rating": 4.9,
@@ -1524,16 +1520,16 @@
             "isPromo": true,
             "available": 40,
             "buyed": "60",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            "category": "8",
+            "diet": "3"
         },
         {
             "id": 79,
             "name": "Coffee Tiramisu",
             "description": "Bánh mang hương vị cafe thơm ngon cùng với lớp bánh mềm mại",
-            "tags": "",
+            "tag": "Top",
             "price": 60000,
             "currentPrice": 60000,
             "rating": 4.9,
@@ -1544,16 +1540,16 @@
             "isPromo": false,
             "available": 40,
             "buyed": "60",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            "category": "8",
+            "diet": "3"
         },
         {
             "id": 80,
             "name": "Red Velvet Tiramisu",
             "description": "bánh chocolate nhiều lớp có màu đỏ với lớp phủ cream cheese ",
-            "tags": "",
+            "tag": "Top",
             "price": 90000,
             "currentPrice": 90000,
             "rating": 4.9,
@@ -1564,17 +1560,17 @@
             "isPromo": false,
             "available": 40,
             "buyed": "50",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            
+            "toping": ["Kem"],
+            "category": "8",
+            "diet": "3"
         },
 
         {
             "id": 81,
             "name": "Banana Tiramisu",
             "description": "Mang vị thơm của chuối và lớp bánh socola mềm",
-            "tags": "",
+            "tag": "New",
             "price": 80000,
             "currentPrice": 80000,
             "rating": 4.8,
@@ -1585,16 +1581,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Tiramisu",
-            "diet": "Cân đối"
+            
+            "toping": ["Sữa tươi"],
+            "category": "8",
+            "diet": "3"
         },
         {
             "id": 82,
             "name": "Basque Burnt Cheesecake",
             "description": "bánh phô mai basque đốt cháy để tạo ra một lớp bên ngoài đắng và bên trong có kem",
-            "tags": "Top",
+            "tag": "Top",
             "price": 110000,
             "currentPrice": 110000,
             "rating": 4.9,
@@ -1605,16 +1601,16 @@
             "isPromo": false,
             "available": 60,
             "buyed": "50",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Gầy"
+            
+            "toping": ["Kem"],
+            "category": "2",
+            "diet": "1"
         },
         {
             "id": 83,
             "name": "Black Currant Cheesecake",
             "description": "một loại bánh pho mát nướng đậm đà và hấp dẫn",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 130000,
             "currentPrice": 125000,
             "rating": 4.8,
@@ -1625,16 +1621,16 @@
             "isPromo": true,
             "available": 50,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Phô mai"],
+            "category": "2",
+            "diet": "3"
         },
         {
             "id": 84,
             "name": "Jam Cheesecake",
             "description": "Bánh phô mai béo ngậy lớp trên là mứt hoa quả thơm ngon",
-            "tags": "Promo",
+            "tag": "Promo",
             "price": 130000,
             "currentPrice": 125000,
             "rating": 4.8,
@@ -1645,16 +1641,16 @@
             "isPromo": true,
             "available": 50,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Mức"],
+            "category": "2",
+            "diet": "3"
         },
         {
             "id": 85,
             "name": "Lemon Blueberry Cheesecake",
             "description": "Bánh phô mai mềm mại lớp trên là quả việt quất và kem chanh dây",
-            "tags": "New",
+            "tag": "New",
             "price": 130000,
             "currentPrice": 125000,
             "rating": 4.8,
@@ -1665,16 +1661,16 @@
             "isPromo": true,
             "available": 50,
             "buyed": "10",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Thừa cân"
+            
+            "toping": ["Kem"],
+            "category": "2",
+            "diet": "4"
         },
         {
             "id": 86,
             "name": "Peanut Butter Cheesecake",
             "description": "Bánh phô mai cùng với kem bơ đậu béo ngậy",
-            "tags": "New",
+            "tag": "New",
             "price": 110000,
             "currentPrice": 110000,
             "rating": 4.8,
@@ -1685,16 +1681,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "10",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Gầy"
+            
+            "toping": ["Kem"],
+            "category": "2",
+            "diet": "1"
         },
         {
             "id": 87,
             "name": "Rasp Berry Cheesecake",
             "description": " Lớp kem làm từ quả mâm xôi tươi",
-            "tags": "New",
+            "tag": "New",
             "price": 90000,
             "currentPrice": 90000,
             "rating": 4.8,
@@ -1705,16 +1701,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "10",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Gầy"
+            
+            "toping": ["Phô mai"],
+            "category": "2",
+            "diet": "1"
         },
         {
             "id": 88,
             "name": "Chocolate Cheesecake",
             "description": "Bánh mang hương vị socola thơm ngon",
-            "tags": "",
+            "tag": "New",
             "price": 200000,
             "currentPrice": 200000,
             "rating": 4.8,
@@ -1725,16 +1721,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Phô mai"],
+            "category": "2",
+            "diet": "3"
         },
         {
             "id": 89,
             "name": "Coffee Cheesecake",
             "description": "Bánh mang hương vị coffee thơm ngon",
-            "tags": "",
+            "tag": "Top",
             "price": 200000,
             "currentPrice": 200000,
             "rating": 4.7,
@@ -1745,17 +1741,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Phô mai"],
+            "category": "2",
+            "diet": "3"
         },
 
         {
             "id": 90,
             "name": "Matcha Burnt Cheesecake",
             "description": "bánh phô mai matcha đốt cháy để tạo ra một lớp bên ngoài đắng thơm ngon",
-            "tags": "",
+            "tag": "Top",
             "price": 180000,
             "currentPrice": 180000,
             "rating": 4.8,
@@ -1766,17 +1762,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Phô mai"],
+            "category": "2",
+            "diet": "3"
         },
 
         {
             "id": 91,
             "name": "Vanilla Cheesecake",
-            "description": "bánh phô mai mang hương vani ngọt ngào",
-            "tags": "",
+            "description": "bánh phô mai với hương vani ngọt ngào",
+            "tag": "New",
             "price": 140000,
             "currentPrice": 140000,
             "rating": 4.8,
@@ -1787,16 +1783,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            "category": "2",
+            "diet": "3"
         },
         {
             "id": 92,
             "name": "Cranberry Cake",
             "description": "Bánh cà phê nam việt quất lành mạnh không có sữa và không có đường tinh luyện hoặc bột mì.",
-            "tags": "",
+            "tag": "New",
             "price": 15000,
             "currentPrice": 15000,
             "rating": 4.9,
@@ -1807,17 +1803,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "Cheesecake",
-            "diet": "Cân đối"
+            
+            "toping": ["Dâu tây", "Kem"],
+            "category": "2",
+            "diet": "3"
         },
 
         {
             "id": 93,
             "name": "Butternut Muffins",
             "description": "Bánh nướng xốp bí ngô tốt cho sức khỏe, hàm lượng đường trong bánh thấp ",
-            "tags": "",
+            "tag": "Top",
             "price": 10000,
             "currentPrice": 10000,
             "rating": 4.8,
@@ -1828,17 +1824,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            "category": "2",
+            "diet": "2"
         },
 
         {
             "id": 94,
-            "name": "Vegan Raspberrry Creme",
+            "name": "Vegan Raspberry Creme",
             "description": " Chiếc bánh creme chanh dây thân thiện với người giảm cân, không chứa gluten, không lo về cân nặng",
-            "tags": "",
+            "tag": "New",
             "price": 120000,
             "currentPrice": 120000,
             "rating": 4.8,
@@ -1849,17 +1845,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            "category": "2",
+            "diet": "2"
         },
 
         {
             "id": 95,
             "name": "Lemon Coconut Tea Cake",
             "description": "Bánh có hương vị chanh và dừa thơm ngon ít chất béo",
-            "tags": "",
+            "tag": "Top",
             "price": 100000,
             "currentPrice": 100000,
             "rating": 4.8,
@@ -1870,17 +1866,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            
+            "toping": ["coco"],
+            "category": "2",
+            "diet": "2"
         },
 
         {
             "id": 96,
             "name": "Flourless Orange Cake",
             "description": "Chiếc bánh cam không bột sử dụng toàn bộ cam, kể cả vỏ và không chứa gluten",
-            "tags": "",
+            "tag": "New",
             "price": 80000,
             "currentPrice": 80000,
             "rating": 4.7,
@@ -1891,16 +1887,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            
+            "toping": ["Cam"],
+            "category": "8",
+            "diet": "2"
         },
         {
             "id": 97,
             "name": "Delish Snowflake Cookies",
             "description": "Những chiếc bánh quy hình bông tuyết trông rất trang nhã phù hợp với chủ đề giáng sinh",
-            "tags": "",
+            "tag": "Top",
             "price": 20000,
             "currentPrice":20000,
             "rating": 4.7,
@@ -1911,17 +1907,17 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "size": ["S", "M", "L"],
+            
             "toping": [""],
-            "category": "Cookies",
-            "diet": "Thừa cân"
+            "category": "3",
+            "diet": "4"
         },
 
         {
             "id": 98,
             "name": "America Banana Cake",
             "description": "Chiếc bánh mang hương vị chuối thơm ngon, hàm lượng đường thấp, ít chất béo",
-            "tags": "",
+            "tag": "New",
             "price": 60000,
             "currentPrice":60000,
             "rating": 4.8,
@@ -1932,16 +1928,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            
+            "toping": ["Milk"],
+            "category": "1",
+            "diet": "2"
         },
         {
             "id": 99,
             "name": "Oatmeal Applesauce Cake",
             "description": "Bánh củ cải đường sô cô la rất tốt cho sức khỏe",
-            "tags": "",
+            "tag": "New",
             "price": 70000,
             "currentPrice":70000,
             "rating": 4.9,
@@ -1952,16 +1948,16 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            
+            "toping": ["Cafe"],
+            "category": "1",
+            "diet": "2"
         },
         {
             "id": 100,
             "name": "Summer Pudding",
             "description": "Chiếc bánh làm từ hoa quả nhiệt đới tươi mát rất tốt cho sức khỏe",
-            "tags": "",
+            "tag": "Top",
             "price": 70000,
             "currentPrice":70000,
             "rating": 4.9,
@@ -1972,10 +1968,10 @@
             "isPromo": false,
             "available": 50,
             "buyed": "70",
-            "size": ["S", "M", "L"],
-            "toping": [""],
-            "category": "",
-            "diet": "Béo phì"
+            
+            "toping": ["Cafe"],
+            "category": "7",
+            "diet": "2"
         }
         
     ]
