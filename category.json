@@ -7,8 +7,8 @@
         },
         {
             "id":2,
-            "name": "Donut",
-            "thumb": "https://i.ibb.co/pLxdKNG/donut.png"
+            "name": "Birthday cake",
+            "thumb": "https://i.ibb.co/MVBNLk4/birthday-cake.png"
         },
         {
             "id":3,
@@ -17,13 +17,13 @@
         },
         {
             "id":4,
-            "name": "Pudding",
-            "thumb": "https://i.ibb.co/S6knG36/pudding.png"
+            "name": "Tiramisu",
+            "thumb": "https://i.ibb.co/PDQ4Fsg/tiramisu.png"
         },
         {
             "id":5,
-            "name": "Tiramisu",
-            "thumb": "https://i.ibb.co/PDQ4Fsg/tiramisu.png"
+            "name": "Pudding",
+            "thumb": "https://i.ibb.co/S6knG36/pudding.png"
         },
         {
             "id":6,
@@ -32,8 +32,8 @@
         }
         ,{
             "id":7,
-            "name": "Birthday cake",
-            "thumb": "https://i.ibb.co/MVBNLk4/birthday-cake.png"
+            "name": "Donut",
+            "thumb": "https://i.ibb.co/pLxdKNG/donut.png"
         },
         {
             "id":8,
