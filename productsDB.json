@@ -296,7 +296,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping": ["Đường phủ", "Trái cây","Kẹo viên"],
             "category": "6",
             "diet": "3"
         },
@@ -315,7 +315,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "672",
-            "toping": [""],
+            "toping": ["Đường phủ", "Trái cây","Kẹo viên"],
             "category": "6",
             "diet": "3"
         },
@@ -334,7 +334,7 @@
             "isPromo": false,
             "available": 45,
             "buyed": "1k2",
-            "toping": [""],
+            "toping":  ["Đường phủ", "Trái cây","Kẹo viên"],
             "category": "6",
             "diet": "3"
         },
@@ -353,7 +353,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k5",
-            "toping": [""],
+            "toping":  ["Đường phủ", "Trái cây","Kẹo bi"],
             "category": "6",
             "diet": "2"
         },
@@ -372,7 +372,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping":  ["Đường phủ", "Chocolate","Kẹo bi"],
             "category": "6",
             "diet": "4"
         },
@@ -391,7 +391,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "159",
-            "toping": [""],
+            "toping": ["Đường phủ", "Chocolate","Kẹo bi"],
             "category": "6",
             "diet": "4"
         },
@@ -410,7 +410,7 @@
             "isPromo": false,
             "available": 110,
             "buyed": "1k3",
-            "toping": [""],
+            "toping": ["Đường phủ", "Milo","Kẹo bi"],
             "category": "6",
             "diet": "4"
         },
@@ -429,7 +429,7 @@
             "isPromo": false,
             "available": 125,
             "buyed": "900",
-            "toping": [""],
+            "toping": ["Đường phủ", "Lớp Matcha","Kẹo bi"],
             "category": "6",
             "diet": "2"
         },
@@ -448,7 +448,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping": ["Kem phủ", "Lớp Matcha","Kẹo ngọt"],
             "category": "6",
             "diet": "2"
         },
@@ -467,7 +467,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping": ["Đường phủ", "Trái cây tươi","Kẹo bi"],
             "category": "6",
             "diet": "2"
         },
@@ -486,7 +486,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping": ["Kẹo coffee", "Thanh chocolate","Kẹo bi"],
             "category": "6",
             "diet": "4"
         },
@@ -505,7 +505,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "toping": [""],
+            "toping": ["Lớp đường", "Thanh chocolate","Kẹo bi"],
             "category": "6",
             "diet": "3"
         },
@@ -524,7 +524,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "toping": [""],
+            "toping": ["Lớp chocolate", "Kẹo bi", "Mức"],
             "category": "6",
             "diet": "2"
         },
@@ -544,7 +544,7 @@
             "isPromo": true,
             "available": 280,
             "buyed": "2k",
-            "toping": [""],
+            "toping":["Lớp chocolate", "Kẹo bi", "Mức dâu"],
             "category": "5",
             "diet": "1"
         },
@@ -563,7 +563,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "toping": [""],
+            "toping": ["Trái cây tươi", "Kem phủ", "Đường phủ"],
             "category": "5",
             "diet": "1"
         },
@@ -582,7 +582,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k5",
-            "toping": [""],
+            "toping": ["Trái cây tươi", "Kem phủ","Hạt chocolate"],
             "category": "5",
             "diet": "3"
         },
@@ -601,7 +601,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "toping": [""],
+            "toping": ["Beans", "Hạt chocolate", "Kẹo bi"],
             "category": "5",
             "diet": "4"
         },
@@ -620,7 +620,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "990",
-            "toping": [""],
+            "toping": ["Lớp đường", "Hạt chocolate", "Kẹo bi"],
             "category": "5",
             "diet": "4"
         },
@@ -639,7 +639,7 @@
             "isPromo": false,
             "available": 140,
             "buyed": "1k",
-            "toping": [""],
+            "toping": ["Thanh chocolate", "Kẹo bi", "Hạt chocolate"],
             "category": "5",
             "diet": "4"
         },
@@ -658,7 +658,7 @@
             "isPromo": true,
             "available": 280,
             "buyed": "1k8",
-            "toping": [""],
+            "toping": ["Lớp đường", "Kẹo coffee", "Lớp Matcha"],
             "category": "5",
             "diet": "4"
         },
@@ -677,7 +677,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "toping": [""],
+            "toping": ["Trái cây tươi", "Kẹo bi", "Mức cam"],
             "category": "5",
             "diet": "4"
         },
@@ -696,7 +696,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "toping": [""],
+            "toping": ["Kẹo bi", "Kẹo coffee", "Lớp chocolate"],
             "category": "5",
             "diet": "4"
         },
