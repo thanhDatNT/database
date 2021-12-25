@@ -981,7 +981,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "10",
-            "toping": ["Coffee"],
+            "toping": ["Coffee","Bột cacao","Kem phủ"],
             "category": "4",
             "diet": "4"
         },
@@ -1001,7 +1001,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "20",
-            "toping": ["Bạc hà"],
+            "toping": ["Bạc hà","Kem phủ","Kem socola"],
             "category": "4",
             "diet": "3"
         },
@@ -1020,7 +1020,7 @@
             "isPromo": false,
             "available": 200,
             "buyed": "20",
-            "toping": ["Bí ngô"],
+            "toping": ["Bí ngô","Kem phủ","Mứt bí"],
             "category": "4",
             "diet": "1"
         },
@@ -1041,7 +1041,7 @@
             "buyed": "100",
             "category": "4",
             "diet": "3",
-            "toping": ["Sữa tươi"]
+            "toping": ["Sữa tươi","Bánh Oreo","Kem phủ"]
         },
         {
             "id": 55,
@@ -1059,7 +1059,7 @@
             "available": 150,
             "buyed": "100",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Kẹo bi","Mức cam"],
             "category": "4",
             "diet": "1"
         },
@@ -1079,7 +1079,7 @@
             "available": 150,
             "buyed": "100",
             
-            "toping": [""],
+            "toping": ["Kem tươi","Phô mai","Yến mạch"],
             "category": "4",
             "diet": "3"
         },
@@ -1099,7 +1099,7 @@
             "available": 150,
             "buyed": "100",
             
-            "toping": ["Dâu tây"],
+            "toping": ["Dâu tây","Sữa tươi","Kem dâu"],
             "category": "4",
             "diet": "3"
         },
@@ -1119,7 +1119,7 @@
             "available": 200,
             "buyed": "100",
             
-            "toping": ["Xoài"],
+            "toping": ["Xoài","Thạch","Đường phủ"],
             "category": "4",
             "diet": "4"
         },
@@ -1140,7 +1140,7 @@
             "available": 100,
             "buyed": "100",
             
-            "toping": [""],
+            "toping": ["Chanh tươi","Trái cây","Kem phủ"],
             "category": "4",
             "diet": "3"
         },
@@ -1161,7 +1161,7 @@
             "available": 160,
             "buyed": "100",
             
-            "toping": [""],
+            "toping": ["Vanila","Kẹo ngọt","Kem sữa"],
             "category": "4",
             "diet": "3"
         },
@@ -1181,7 +1181,7 @@
             "available": 130,
             "buyed": "80",
             
-            "toping": ["Chocolate"],
+            "toping": ["Chocolate","Kem phủ","Kem sữa"],
             "category": "4",
             "diet": "3"
         },
@@ -1202,7 +1202,7 @@
             "available": 100,
             "buyed": "90",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Kem tươi","Kem socola"],
             "category": "3",
             "diet": "1"
         },
@@ -1222,7 +1222,7 @@
             "available": 60,
             "buyed": "30",
             
-            "toping": [""],
+            "toping": ["Bí ngô","Kem tươi","Kẹo viên"],
             "category": "3",
             "diet": "1"
         },
@@ -1242,7 +1242,7 @@
             "available": 100,
             "buyed": "70",
             
-            "toping": ["Matcha"],
+            "toping": ["Matcha","Phô mai","Vanila"],
             "category": "3",
             "diet": "1"
         },
@@ -1262,7 +1262,7 @@
             "available": 140,
             "buyed": "100",
             
-            "toping": ["Sữa"],
+            "toping": ["Sữa","Chocolate","Kem sữa"],
             "category": "3",
             "diet": "3"
         },
@@ -1282,7 +1282,7 @@
             "available": 80,
             "buyed": "50",
             
-            "toping": [""],
+            "toping": ["Chocolate","Milk","Phô mai"],
             "category": "3",
             "diet": "3"
         },
@@ -1302,7 +1302,7 @@
             "available": 120,
             "buyed": "30",
             
-            "toping": [""],
+            "toping": ["Kem","Trân châu","Thạch"],
             "category": "3",
             "diet": "3"
         },
@@ -1322,7 +1322,7 @@
             "available": 120,
             "buyed": "20",
             
-            "toping": ["Mức trái cây"],
+            "toping": ["Mức trái cây","Thanh chocolate","Trái cây"],
             "category": "3",
             "diet": "4"
         },
@@ -1343,7 +1343,7 @@
             "available": 70,
             "buyed": "60",
             
-            "toping": ["Yến mạch"],
+            "toping": ["Yến mạch","Phô mai","Sữa tươi"],
             "category": "3",
             "diet": "1"
         },
@@ -1364,7 +1364,7 @@
             "available": 100,
             "buyed": "70",
             
-            "toping": ["Gừng"],
+            "toping": ["Gừng","Thạch","Phô mai"],
             "category": "3",
             "diet": "1"
         },
@@ -1386,7 +1386,7 @@
             "available": 100,
             "buyed": "70",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Kem phủ","Lớp đường"],
             "category": "3",
             "diet": "3"
         },
@@ -1406,7 +1406,7 @@
             "available": 80,
             "buyed": "60",
             
-            "toping": ["Mức trái cây"],
+            "toping": ["Mức trái cây","Vanila","Trân châu"],
             "category": "3",
             "diet": "1"
         },
@@ -1427,7 +1427,7 @@
             "available": 80,
             "buyed": "50",
             
-            "toping": [""],
+            "toping": ["Matcha","Thạch","Phô mai"],
             "category": "8",
             "diet": "3"
         },
@@ -1448,7 +1448,7 @@
             "available": 40,
             "buyed": "90",
             
-            "toping": [""],
+            "toping": ["Xoài","Thạch xoài","Kem xoài"],
             "category": "8",
             "diet": "4"
         },
@@ -1469,7 +1469,7 @@
             "available": 40,
             "buyed": "20",
             
-            "toping": [""],
+            "toping": ["Dâu tây","Kem dâu","Kem tươi"],
             "category": "8",
             "diet": "3"
         },
@@ -1489,7 +1489,7 @@
             "available": 30,
             "buyed": "10",
             
-            "toping": [""],
+            "toping": ["Mứt dứa","Kem tươi","Milk"],
             "category": "8",
             "diet": "4"
         },
@@ -1509,7 +1509,7 @@
             "available": 40,
             "buyed": "60",
             
-            "toping": [""],
+            "toping": ["Mứt chanh dây","Kem chanh dây","Kem cheese"],
             "category": "8",
             "diet": "1"
         },
@@ -1529,7 +1529,7 @@
             "available": 40,
             "buyed": "60",
             
-            "toping": [""],
+            "toping": ["Oreo","Milk","Milk"],
             "category": "8",
             "diet": "3"
         },
@@ -1549,7 +1549,7 @@
             "available": 40,
             "buyed": "60",
             
-            "toping": [""],
+            "toping": ["Coffe","Milo","Kem tươi"],
             "category": "8",
             "diet": "3"
         },
@@ -1569,7 +1569,7 @@
             "available": 40,
             "buyed": "50",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Kem tươi","Kem phủ"],
             "category": "8",
             "diet": "3"
         },
@@ -1590,7 +1590,7 @@
             "available": 50,
             "buyed": "60",
             
-            "toping": ["Sữa tươi"],
+            "toping": ["Sữa tươi","Kem chuối","Mứt chuối"],
             "category": "8",
             "diet": "3"
         },
@@ -1610,7 +1610,7 @@
             "available": 60,
             "buyed": "50",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Kem phủ","Kem sữa"],
             "category": "2",
             "diet": "1"
         },
@@ -1630,7 +1630,7 @@
             "available": 50,
             "buyed": "70",
             
-            "toping": ["Phô mai"],
+            "toping": ["Phô mai","Kem sữa","Kem tươi"],
             "category": "2",
             "diet": "3"
         },
@@ -1650,7 +1650,7 @@
             "available": 50,
             "buyed": "70",
             
-            "toping": ["Mức"],
+            "toping": ["Mứt phô mai","Phô mai","Thạch"],
             "category": "2",
             "diet": "3"
         },
@@ -1670,7 +1670,7 @@
             "available": 50,
             "buyed": "10",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Sữa tươi","Mứt chanh dây"],
             "category": "2",
             "diet": "4"
         },
@@ -1690,7 +1690,7 @@
             "available": 50,
             "buyed": "10",
             
-            "toping": ["Kem"],
+            "toping": ["Kem","Sữa tươi","Phô mai"],
             "category": "2",
             "diet": "1"
         },
@@ -1710,7 +1710,7 @@
             "available": 50,
             "buyed": "10",
             
-            "toping": ["Phô mai"],
+            "toping": ["Phô mai","Mứt mâm xôi","Kem tươi"],
             "category": "2",
             "diet": "1"
         },
@@ -1730,7 +1730,7 @@
             "available": 50,
             "buyed": "50",
             
-            "toping": ["Phô mai"],
+            "toping": ["Phô mai","Chocolate","Kem tươi"],
             "category": "2",
             "diet": "3"
         },
@@ -1750,7 +1750,7 @@
             "available": 50,
             "buyed": "50",
             
-            "toping": ["Phô mai"],
+            "toping": ["Phô mai","Kem tươi","Kem phủ"],
             "category": "2",
             "diet": "3"
         },
@@ -1771,7 +1771,7 @@
             "available": 50,
             "buyed": "60",
             
-            "toping": ["Phô mai"],
+            "toping": ["Matcha","Phô mai","Sữa tươi"],
             "category": "2",
             "diet": "3"
         },
@@ -1792,7 +1792,7 @@
             "available": 50,
             "buyed": "60",
             
-            "toping": [""],
+            "toping": ["Phô mai","Sữa tươi","Thạch"],
             "category": "2",
             "diet": "3"
         },
@@ -1812,7 +1812,7 @@
             "available": 50,
             "buyed": "60",
             
-            "toping": ["Dâu tây", "Kem"],
+            "toping": ["Dâu tây", "Kem","Việt quất"],
             "category": "2",
             "diet": "3"
         },
@@ -1833,7 +1833,7 @@
             "available": 50,
             "buyed": "40",
             
-            "toping": [""],
+            "toping": ["Kem","Thạch","Trái cây"],
             "category": "2",
             "diet": "2"
         },
@@ -1854,7 +1854,7 @@
             "available": 50,
             "buyed": "40",
             
-            "toping": [""],
+            "toping": ["Mứt chanh dây","Trái cây","Sữa"],
             "category": "2",
             "diet": "2"
         },
@@ -1875,7 +1875,7 @@
             "available": 50,
             "buyed": "25",
             
-            "toping": ["coco"],
+            "toping": ["coco","Mứt chanh dây","Phô mai"],
             "category": "2",
             "diet": "2"
         },
@@ -1896,7 +1896,7 @@
             "available": 50,
             "buyed": "25",
             
-            "toping": ["Cam"],
+            "toping": ["Cam","Mứt trái cây","Mứt cam"],
             "category": "8",
             "diet": "2"
         },
@@ -1916,7 +1916,7 @@
             "available": 50,
             "buyed": "25",
             
-            "toping": [""],
+            "toping": ["Kem","Kem sữa","Kem socola"],
             "category": "3",
             "diet": "4"
         },
@@ -1937,7 +1937,7 @@
             "available": 50,
             "buyed": "50",
             
-            "toping": ["Milk"],
+            "toping": ["Milk","Kem tươi","Kem"],
             "category": "1",
             "diet": "2"
         },
@@ -1957,7 +1957,7 @@
             "available": 50,
             "buyed": "40",
             
-            "toping": ["Cafe"],
+            "toping": ["Cafe","Mứt trái cây","Kem phủ"],
             "category": "1",
             "diet": "2"
         },
@@ -1977,7 +1977,7 @@
             "available": 50,
             "buyed": "70",
             
-            "toping": ["Cafe"],
+            "toping": ["Mứt trái cây","Kem sữa","Kem tươi"],
             "category": "7",
             "diet": "2"
         }
