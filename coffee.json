@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Americano",
+    "price": 55000,
+    "image": "https://i.ibb.co/qngxHCg/coffee1.png"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "price": 60000,
+    "image": "https://i.ibb.co/XkFSSgh/coffee2.png"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "price": 55000,
+    "image": "https://i.ibb.co/MhhWCvm/coffee3.png"
+  },
+  {
+    "id": 4,
+    "name": "Flat White",
+    "price": 52000,
+    "image": "https://i.ibb.co/mXLBgYL/coffee4.png"
+  },
+  {
+    "id": 5,
+    "name": "Raf",
+    "price": 48000,
+    "image": "https://i.ibb.co/hMZsbnB/coffee5.png"
+  },
+  {
+    "id": 6,
+    "name": "Espresso",
+    "price": 63000,
+    "image": "https://i.ibb.co/mNS7vkH/coffee6.png"
+  }
+]
