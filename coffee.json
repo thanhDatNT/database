@@ -34,5 +34,17 @@
     "name": "Espresso",
     "price": 63000,
     "image": "https://i.ibb.co/mNS7vkH/coffee6.png"
+  },
+  {
+    "id": 7,
+    "name": "Nitro coffee",
+    "price": 70000,
+    "image": "https://i.ibb.co/P9D4n4B/image.png"
+  },
+  {
+    "id": 8,
+    "name": "Coconut Nitro",
+    "price": 73000,
+    "image": "https://i.ibb.co/s6wp9fM/image.png"
   }
 ]
